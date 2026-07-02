@@ -58,11 +58,7 @@ Robot car control and embedded system project.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllCodeCraft-Ch&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllCodeCraft-Ch&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AllCodeCraft-Ch&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -70,11 +66,7 @@ Robot car control and embedded system project.
 
 ## 🏆 GitHub Trophy
 
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AllCodeCraft-Ch&theme=algolia&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
