@@ -93,7 +93,7 @@ Robot Fleet Management Platform
 
 ---
 
-## 🚚 PUDU OpenAPI Integration
+## 🚚 ROBOT OpenAPI Integration
 
 Integration library for
 
