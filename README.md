@@ -65,12 +65,6 @@ I'm passionate about **Robotics**, **Automation**, **Backend Development**, and 
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AllCodeCraft-Ch&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 # 🚀 Developer Profile
 
 <div align="center">
