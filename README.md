@@ -51,9 +51,9 @@ I'm passionate about **Robotics**, **Automation**, **Backend Development**, and 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AllCodeCraft-Ch&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AllCodeCraft-Ch&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllCodeCraft-Ch&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllCodeCraft-Ch&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -61,17 +61,15 @@ I'm passionate about **Robotics**, **Automation**, **Backend Development**, and 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AllCodeCraft-Ch&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AllCodeCraft-Ch&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 # 🏆 GitHub Trophy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AllCodeCraft-Ch&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AllCodeCraft-Ch&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
