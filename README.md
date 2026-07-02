@@ -1,83 +1,108 @@
 <div align="center">
 
-# 👋 Hi, I'm Natthawut Chungam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=240&section=header&text=Natthawut%20Chungam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### 🤖 Robot Integration Engineer  
-### Building Robotics, Automation and Backend Systems
+# 🤖 Robot Integration Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=AllCodeCraft-Ch&style=for-the-badge&color=0e75b6)
+### Building Robotics • Automation • Backend Systems
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I am interested in Robotics, Automation, API Integration and Backend Development.
-
-- 🤖 Working with Robot Integration
-- 🚚 Building Robot Dispatch Systems
-- ⚡ Backend with FastAPI / Node.js
-- 🌐 Frontend with React
-- 📡 Communication with MQTT / REST API
-- 🐧 Linux, Git and VS Code
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-2563EB?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-64748B?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 CallRobot Platform
-Robot calling and dispatch management system.
-
-### 🚚 OpenAPI Integration
-API integration for robot task control and status monitoring.
-
-### 📊 Daily Report System
-Daily work report web application.
-
-### 🚗 RobotCar
-Robot car control and embedded system project.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
+<img src="https://komarev.com/ghpvc/?username=AllCodeCraft-Ch&style=for-the-badge&color=2563EB" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophy
+# 👨‍💻 About Me
 
+I'm passionate about **Robotics**, **Automation**, **Backend Development**, and **Industrial Integration**.
 
+- 🤖 Robot Integration
+- 🚚 Robot Dispatch Platform
+- ⚡ FastAPI & Python Backend
+- 🌐 React Dashboard
+- 📡 REST API & MQTT
+- 🐧 Linux & Git
 
 ---
 
-## 📫 Contact
+# 💻 Tech Stack
 
-- GitHub: [AllCodeCraft-Ch](https://github.com/AllCodeCraft-Ch)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,nodejs,mysql,linux,git,docker,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 CallRobot Platform | Robot fleet management and dispatch system |
+| 🚚 OpenAPI Integration | Robot API integration and task control |
+| 📊 Daily Report System | Work reporting dashboard |
+| 🌐 Portfolio Website | Personal portfolio |
+| 🚗 RobotCar | Embedded robotics project |
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AllCodeCraft-Ch&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllCodeCraft-Ch&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🤖 Robotics • Backend • Automation
+<img src="https://streak-stats.demolab.com?user=AllCodeCraft-Ch&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AllCodeCraft-Ch&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AllCodeCraft-Ch&theme=github-dark"/>
+
+</div>
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/AllCodeCraft-Ch">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🤖 Robotics | Backend | Automation | AI
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=120&section=footer"/>
 
 </div>
