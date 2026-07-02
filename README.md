@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Natthawut Chungam
 
-<!--
-**AllCodeCraft-Ch/AllCodeCraft-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 Robot Integration Engineer
 
-Here are some ideas to get you started:
+Passionate about Robotics, AI, Automation and Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+- 🤖 PUDU Robot Integration
+- 🚚 Robot Dispatch System
+- ⚡ FastAPI Backend
+- 🌐 React Dashboard
+- 📡 MQTT Communication
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- FastAPI
+- React
+- TypeScript
+- JavaScript
+- Node.js
+- MySQL
+- Linux
+- Git
+- Docker
+- MQTT
+
+---
+
+## 📌 Featured Projects
+
+- 🤖 CallRobot Platform
+- 🚚 PUDU OpenAPI
+- 📊 Daily Report System
+- 🌐 Portfolio Website
+- 🚗 RobotCar
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/AllCodeCraft-Ch
