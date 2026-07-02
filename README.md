@@ -15,7 +15,7 @@
 
 I am interested in Robotics, Automation, API Integration and Backend Development.
 
-- 🤖 Working with PUDU Robot Integration
+- 🤖 Working with Robot Integration
 - 🚚 Building Robot Dispatch Systems
 - ⚡ Backend with FastAPI / Node.js
 - 🌐 Frontend with React
