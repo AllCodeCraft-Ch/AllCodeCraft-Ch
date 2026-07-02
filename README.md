@@ -47,13 +47,19 @@ I'm passionate about **Robotics**, **Automation**, **Backend Development**, and 
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AllCodeCraft-Ch&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=AllCodeCraft-Ch&theme=github-dark-blue&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllCodeCraft-Ch&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AllCodeCraft-Ch&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -65,16 +71,29 @@ I'm passionate about **Robotics**, **Automation**, **Backend Development**, and 
 
 </div>
 
-# 🏆 GitHub Trophy
+# 🚀 Developer Profile
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AllCodeCraft-Ch&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://img.shields.io/badge/Robot_Integration-0F4C81?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
 ---
-
 # 📈 Contribution Graph
 
 <div align="center">
