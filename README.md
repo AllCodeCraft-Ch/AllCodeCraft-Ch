@@ -1,53 +1,195 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=240&section=header&text=Natthawut%20Chungam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=260&section=header&text=Natthawut%20Chungam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 🤖 Robot Integration Engineer
 
-### Building Robotics • Automation • Backend Systems
+### Building Intelligent Robotics • Automation • Backend Systems
 
-<img src="https://komarev.com/ghpvc/?username=AllCodeCraft-Ch&style=for-the-badge&color=2563EB" />
+<img src="https://komarev.com/ghpvc/?username=AllCodeCraft-Ch&style=for-the-badge&color=2563EB"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-I'm passionate about **Robotics**, **Automation**, **Backend Development**, and **Industrial Integration**.
+Hi, I'm **Natthawut Chungam** from **Thailand 🇹🇭**
+
+I specialize in **Industrial Robotics**, **Robot Integration**, **Backend Development**, and **Automation Systems**.
+
+I enjoy building reliable software that connects robots, cloud services, and industrial equipment.
+
+Currently focused on
 
 - 🤖 Robot Integration
-- 🚚 Robot Dispatch Platform
-- ⚡ FastAPI & Python Backend
+- 🚚 Fleet Management Platform
+- ⚡ FastAPI Backend
 - 🌐 React Dashboard
-- 📡 REST API & MQTT
-- 🐧 Linux & Git
+- 📡 REST API
+- 📶 MQTT Communication
+- 🔗 Robot & Equipment Integration
 
 ---
 
-# 💻 Tech Stack
+# 💼 Current Focus
 
-<p align="center">
+- 🤖 OpenAPI
+- 🚚 Robot Dispatch System
+- 📡 MQTT Communication
+- 🌐 React + TypeScript
+- ⚡ FastAPI
+- 🐍 Python Automation
+- 🐧 Linux Server
+- 🔌 Industrial API Integration
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,nodejs,mysql,linux,git,docker,vscode"/>
 
-</p>
+</div>
+
+---
+
+# ⚙ Robotics Skills
+
+✅ Robot Integration
+
+✅ REST API Development
+
+✅ MQTT Broker
+
+✅ Robot Fleet Management
+
+✅ Industrial Automation
+
+✅ Robot Task Scheduling
+
+✅ Web Dashboard
+
+✅ Backend API Design
+
+✅ Linux Administration
+
+✅ Git Workflow
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 CallRobot Platform | Robot fleet management and dispatch system |
-| 🚚 OpenAPI Integration | Robot API integration and task control |
-| 📊 Daily Report System | Work reporting dashboard |
-| 🌐 Portfolio Website | Personal portfolio |
-| 🚗 RobotCar | Embedded robotics project |
+## 🤖 CallRobot Platform
+
+Robot Fleet Management Platform
+
+- Robot Status
+- Task Dispatch
+- Robot Control
+- API Integration
+- MQTT Communication
 
 ---
 
-# 📊 GitHub Activity
+## 🚚 PUDU OpenAPI Integration
+
+Integration library for
+
+- Robot Control
+- Task Management
+- Robot Status
+- Robot Map
+- Robot Telemetry
+
+---
+
+## 🌐 Robot Dashboard
+
+Web Dashboard built with
+
+- React
+- TypeScript
+- FastAPI
+- WebSocket
+
+---
+
+## 📊 Daily Report System
+
+Internal work reporting platform
+
+- Dashboard
+- Report Export
+- Calendar
+- Image Upload
+
+---
+
+## 🚗 RobotCar
+
+Embedded Robotics Project
+
+- C++
+- Arduino
+- ESP32
+- Wireless Communication
+
+---
+
+# 💻 Programming Languages
+
+- Python
+- TypeScript
+- JavaScript
+- C++
+- SQL
+
+---
+
+# 🔧 Frameworks
+
+- FastAPI
+- React
+- Node.js
+
+---
+
+# 🗄 Database
+
+- MySQL
+
+---
+
+# 🖥 Operating Systems
+
+- Linux
+- Windows
+- macOS
+
+---
+
+# 🧰 Development Tools
+
+- VS Code
+- Git
+- Docker
+- Postman
+
+---
+
+# 📡 Technologies
+
+- REST API
+- MQTT
+- JSON
+- HTTP
+- WebSocket
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
@@ -55,55 +197,34 @@ I'm passionate about **Robotics**, **Automation**, **Backend Development**, and 
 
 </div>
 
-<br>
+---
 
-<div align="center">
+# 🌟 What I Like
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AllCodeCraft-Ch&theme=github-dark&hide_border=true"/>
+🤖 Robotics
 
-</div>
+⚡ Automation
+
+🐍 Python
+
+🌐 Web Development
+
+📡 API Integration
+
+🚚 Fleet Management
+
+🧠 Problem Solving
+
+☁ Cloud Technologies
 
 ---
 
-# 🚀 Developer Profile
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Robot_Integration-0F4C81?style=for-the-badge&logo=robotframework&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
----
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AllCodeCraft-Ch&theme=github-dark"/>
-
-</div>
-
----
-
-# 📫 Connect with Me
+# 📫 Contact
 
 <p align="center">
 
 <a href="https://github.com/AllCodeCraft-Ch">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -112,8 +233,8 @@ I'm passionate about **Robotics**, **Automation**, **Backend Development**, and 
 
 <div align="center">
 
-### 🤖 Robotics | Backend | Automation | AI
+## 🤖 "Building Intelligent Robotics for a Better Tomorrow."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:0F4C81&height=120&section=footer"/>
 
 </div>
