@@ -5,7 +5,7 @@
 Passionate about Robotics, AI, Automation and Backend Development.
 
 ### 🚀 Currently Working On
-- 🤖 PUDU Robot Integration
+- 🤖 Robot Integration
 - 🚚 Robot Dispatch System
 - ⚡ FastAPI Backend
 - 🌐 React Dashboard
@@ -32,7 +32,7 @@ Passionate about Robotics, AI, Automation and Backend Development.
 ## 📌 Featured Projects
 
 - 🤖 CallRobot Platform
-- 🚚 PUDU OpenAPI
+- 🚚 OpenAPI
 - 📊 Daily Report System
 - 🌐 Portfolio Website
 - 🚗 RobotCar
