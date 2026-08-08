@@ -17,7 +17,7 @@ I'm a **Robot Integration Engineer** from Thailand 🇹🇭, working with indust
 
 My work focuses on connecting **robots ↔ APIs ↔ servers ↔ industrial equipment** and building tools for robot monitoring, control, and task dispatch.
 
-<br>
+<div align="center"> 
 
 ```text
 Robot  ──►  API  ──►  Backend  ──►  Dashboard
@@ -26,7 +26,7 @@ Robot  ──►  API  ──►  Backend  ──►  Dashboard
   └── Equipment        └── Network / Server
 ```
 
-<br>
+</div>
 
 ---
 
