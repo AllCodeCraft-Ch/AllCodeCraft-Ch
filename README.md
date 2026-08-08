@@ -127,12 +127,12 @@ Real-time web dashboard for monitoring robot status, missions, locations, connec
 
 <div align="center">
   
-```text
+<pre>
 🤖 Robot Integration       ⚡ Backend Development
 🚚 Fleet Management        📡 MQTT / REST API
 🌐 Network Infrastructure  🐧 Linux Server
 🔌 Industrial Equipment    📟 ESP32 / Sensors
-```
+</pre>
 </div>
 
 
