@@ -1,14 +1,16 @@
 <div align="center">
 
-# 🤖 Natthawut Chungam
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Natthawut Chungam">
+</p>
 
-### ![Robot Integration Engineer](https://img.shields.io/badge/Robot_Integration_Engineer-1E3A8A?style=for-the-badge)
+<div align="center">
 
 **Robotics · Backend Systems · Automation · Networking**
 
 Building reliable systems that connect **robots, software, industrial equipment, and networks.**
 
-
+</div>
 
 ---
 
