@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Natthawut Chungam Header">
+  <img src="./header.svg?v=2" width="100%" alt="Natthawut Chungam Header">
 </p>
 
 <div align="center">
