@@ -17,14 +17,14 @@ I'm a **Robot Integration Engineer** from Thailand 🇹🇭, working with indust
 
 My work focuses on connecting **robots ↔ APIs ↔ servers ↔ industrial equipment** and building tools for robot monitoring, control, and task dispatch.
 
-<div align="center"> 
+<div align="center">
 
-```text
+<pre>
 Robot  ──►  API  ──►  Backend  ──►  Dashboard
   │                    │
   ├── MQTT             ├── Database
   └── Equipment        └── Network / Server
-```
+</pre>
 
 </div>
 
