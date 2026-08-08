@@ -1,8 +1,6 @@
 <div align="center">
-<img src="./header.svg?v=2" width="100%" alt="Natthawut Chungam Header">
-Building reliable systems that connect **robots, software, industrial equipment, and networks.**
-
-<br>
+<img src="header.svg?v=2" width="100%" alt="Natthawut Chungam Header">
+<div align="center">Building reliable systems that connect **robots, software, industrial equipment, and networks.**</div>
 
 ---
 
