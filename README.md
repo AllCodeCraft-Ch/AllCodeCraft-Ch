@@ -3,12 +3,6 @@
   <img src="./header-v2.svg" width="100%" alt="Natthawut Chungam Header">
 </p>
 
-<div align="center">
-
-Building reliable systems that connect <strong>robots, software, industrial equipment, and networks.</strong>
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
