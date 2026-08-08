@@ -14,6 +14,8 @@ My work focuses on connecting **robots ↔ APIs ↔ servers ↔ industrial equip
 <div align="center">
 ## 🏗️ System Architecture
 
+# This is the system architecture that was actually implemented #
+
 ```mermaid
 flowchart LR
 
