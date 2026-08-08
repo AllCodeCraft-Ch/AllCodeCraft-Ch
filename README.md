@@ -112,6 +112,9 @@ Embedded robotics project with microcontroller control and wireless communicatio
 
 ### ⚙️ Robots. Software. Networks.
 
-*Building systems that make them work together.*
+## 🛠️ Demos & Implementations
+
+Below are some **demo projects, prototypes, and system implementations** I have developed and deployed in real-world environments, covering robotics, automation, IoT, and software systems.
+
 
 </div>
