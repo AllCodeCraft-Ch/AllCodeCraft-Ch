@@ -70,7 +70,12 @@ Robot  ──►  API  ──►  Backend  ──►  Dashboard
 
 Industrial robot dispatch and fleet management system designed for factory environments. Supports multi-robot task assignment, job queues, robot availability, real-time status updates, and physical dispatch stations.
 
-`React` · `FastAPI` · `REST API` · `WebSocket` · `MQTT` · `Database`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-2563EB?style=flat-square&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-0EA5E9?style=flat-square&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Database](https://img.shields.io/badge/Database-64748B?style=flat-square&logo=databricks&logoColor=white)
 
 ---
 
@@ -78,7 +83,11 @@ Industrial robot dispatch and fleet management system designed for factory envir
 
 Backend integration layer for connecting robot platforms with custom applications, including authentication, robot status, task creation, task cancellation, mission tracking, and telemetry.
 
-`Python` · `FastAPI` · `REST API` · `OpenAPI` · `JSON`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-2563EB?style=flat-square&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
 
 ---
 
@@ -86,7 +95,11 @@ Backend integration layer for connecting robot platforms with custom application
 
 ESP32-based interface for industrial photo sensors and physical dispatch controls. Sensor states are processed by the controller and transmitted to backend systems through MQTT for automation and robot task triggering.
 
-`ESP32` · `C++` · `GPIO` · `MQTT` · `Sensors`
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![GPIO](https://img.shields.io/badge/GPIO-2563EB?style=flat-square&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-0284C7?style=flat-square&logoColor=white)
 
 ---
 
@@ -94,7 +107,13 @@ ESP32-based interface for industrial photo sensors and physical dispatch control
 
 Network infrastructure and troubleshooting for robot systems, servers, and industrial devices, including static IP configuration, DHCP reservation, LAN deployment, VLAN, Wi-Fi access points, and network diagnostics.
 
-`TCP/IP` · `LAN` · `DHCP` · `VLAN` · `Wi-Fi` · `Linux` · `MikroTik`
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2563EB?style=flat-square&logoColor=white)
+![LAN](https://img.shields.io/badge/LAN-0284C7?style=flat-square&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-0EA5E9?style=flat-square&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-1E40AF?style=flat-square&logoColor=white)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-00A8E8?style=flat-square&logo=wifi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
 
 ---
 
@@ -102,9 +121,14 @@ Network infrastructure and troubleshooting for robot systems, servers, and indus
 
 Real-time web dashboard for monitoring robot status, missions, locations, connected equipment, sensor states, and system events from a centralized interface.
 
-`React` · `TypeScript` · `FastAPI` · `WebSocket` · `REST API`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-0EA5E9?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-2563EB?style=flat-square&logoColor=white)
 
 ---
+
 ## 🔧 What I Work On
 
 ```text
