@@ -30,18 +30,62 @@ Robot  ──►  API  ──►  Backend  ──►  Dashboard
 
 ---
 
-## 🧩 Engineering Stack
+<div align="center">
 
-### 🤖 Robotics & Automation
+<h2>🧩 Engineering Stack</h2>
 
+<h3>🤖 Robotics & Automation</h3>
 
-### ⚡ Software & Backend
-
-
-### 🌐 Network & Infrastructure
-
-
+<img src="https://img.shields.io/badge/Robot_Integration-1E40AF?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Fleet_Management-2563EB?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Task_Dispatch-0284C7?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Robot_Monitoring-0369A1?style=for-the-badge&logo=probot&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Sensors-F97316?style=for-the-badge&logoColor=white" />
+
+<br><br>
+
+<h3>⚡ Software & Backend</h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-111827?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br><br>
+
+<h3>🌐 Network & Infrastructure</h3>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+<img src="https://img.shields.io/badge/TCP%2FIP-1D4ED8?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LAN-0284C7?style=for-the-badge&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/DHCP-0EA5E9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/VLAN-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Wi--Fi-06B6D4?style=for-the-badge&logo=wifi&logoColor=white" />
+<img src="https://img.shields.io/badge/SSH-111827?style=for-the-badge&logo=gnubash&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Server-475569?style=for-the-badge&logo=linuxserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Diagnostics-334155?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+<br><br>
+
+</div>
 
 ---
 
