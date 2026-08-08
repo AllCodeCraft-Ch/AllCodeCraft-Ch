@@ -1,5 +1,7 @@
 <div align="center">
-<img src="header.svg?v=2" width="100%" alt="Natthawut Chungam Header">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AllCodeCraft-Ch/AllCodeCraft-Ch/main/header.svg" width="100%" alt="Natthawut Chungam Header">
+</p>
 <div align="center">Building reliable systems that connect **robots, software, industrial equipment, and networks.**</div>
 
 ---
