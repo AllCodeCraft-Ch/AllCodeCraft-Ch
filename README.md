@@ -14,21 +14,21 @@ My work focuses on connecting **robots ↔ APIs ↔ servers ↔ industrial equip
 <div align="center">
 # This is a system architecture that was actually implemented #
 <pre>
-                   ┌──────────────┐
-                   │  Pudu T600   │
-                   │    Robot     │
-                   └──────┬───────┘
-                          │
-                          ▼
-                   ┌──────────────┐
-                   │  Pudu Cloud  │
-                   │   REST API   │
-                   └──────┬───────┘
-                          │
-                          ▼
+
+                           ┌──────────────┐
+                           │    Robot     │
+                           └──────┬───────┘
+                                  │
+                                  ▼
+                           ┌──────────────┐
+                           │    Cloud     │
+                           │   REST API   │
+                           └──────┬───────┘
+                                  │
+                                  ▼
   ┌──────────────┐  MQTT  ┌──────────────┐  REST/WebSocket  ┌──────────────┐
-  │  PLC / ESP32  │ ─────► │   Backend    │ ◄─────────────── │  Dashboard   │
-  │  Equipment    │        │   NestJS     │                  │   Next.js    │
+  │  PLC / ESP   │ ─────► │   Backend    │ ◄─────────────── │  Dashboard   │
+  │  Equipment   │        │   NestJS     │                  │   Next.js    │
   └──────────────┘        └──────┬───────┘                  └──────────────┘
                                  │
                    ┌─────────────┼─────────────┐
