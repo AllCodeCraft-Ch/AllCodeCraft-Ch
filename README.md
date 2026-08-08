@@ -14,40 +14,34 @@ My work focuses on connecting **robots ↔ APIs ↔ servers ↔ industrial equip
 <div align="center">
 ## 🏗️ System Architecture
 
-This is the system architecture that was actually implemented.
+```mermaid
+flowchart LR
 
-```text
-                         ┌───────────────┐
-                         │     Robot     │
-                         └───────▲───────┘
-                                 │
-                                 │
-                         ┌───────▼───────┐
-                         │   Robot API   │
-                         │   REST API    │
-                         └───────▲───────┘
-                                 │
-                                 │
-                                 ▼
-┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
-│      ESP32       │     │     Backend      │     │    Dashboard     │
-│ Sensor / Panel   │────▶│     FastAPI      │◀───▶│      React       │
-└────────▲─────────┘ MQTT└────────┬─────────┘ REST│    Web App       │
-         │                        │               │    WebSocket     │
-         │                        │               └──────────────────┘
-┌────────┴─────────┐              │
-│  Photo Sensors  │              │
-│   / Equipment   │              │
-└──────────────────┘              │
-                                  │
-                    ┌─────────────┼─────────────┐
-                    │             │             │
-                    ▼             ▼             ▼
-             ┌────────────┐ ┌────────────┐ ┌──────────────┐
-             │   SQLite   │ │    MQTT    │ │   On-Prem    │
-             │  Database  │ │ Mosquitto  │ │  Server /    │
-             │            │ │   Broker   │ │ Factory LAN  │
-             └────────────┘ └────────────┘ └──────────────┘
+    Sensor["📡 Photo Sensor"]
+    ESP["🔌 ESP32"]
+    MQTT["📨 MQTT Broker"]
+    Backend["⚙️ FastAPI Backend"]
+    API["☁️ Robot REST API"]
+    Robot["🤖 Robot"]
+    DB[("🗄️ SQLite")]
+    Web["🖥️ React Dashboard"]
+    User["👤 Operator"]
+
+    Sensor --> ESP
+    ESP -->|MQTT| MQTT
+    MQTT --> Backend
+
+    Backend -->|REST API| API
+    API --> Robot
+
+    Robot -->|Status| API
+    API -->|Status| Backend
+
+    Backend <-->|Read / Write| DB
+
+    User --> Web
+    Web -->|Command| Backend
+    Backend -->|WebSocket| Web
 ```
 </div>
 
