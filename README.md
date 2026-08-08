@@ -125,16 +125,16 @@ Real-time web dashboard for monitoring robot status, missions, locations, connec
 
 ## 🔧 What I Work On
 
-<br>
-
+<div align="center">
+  
 ```text
 🤖 Robot Integration       ⚡ Backend Development
 🚚 Fleet Management        📡 MQTT / REST API
 🌐 Network Infrastructure  🐧 Linux Server
 🔌 Industrial Equipment    📟 ESP32 / Sensors
 ```
+</div>
 
-<br>
 
 ---
 
