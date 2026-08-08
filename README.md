@@ -2,25 +2,13 @@
 
 # 🤖 Natthawut Chungam
 
-### Robot Integration Engineer
+### ![Robot Integration Engineer](https://img.shields.io/badge/Robot_Integration_Engineer-1E3A8A?style=for-the-badge)
 
 **Robotics · Backend Systems · Automation · Networking**
 
 Building reliable systems that connect **robots, software, industrial equipment, and networks.**
 
-<br>
 
-<a href="https://github.com/AllCodeCraft-Ch">
-  <img src="https://img.shields.io/badge/GitHub-AllCodeCraft--Ch-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="mailto:natthawut.ch03s@gmail.com">
-  <img src="https://img.shields.io/badge/Email-natthawut.ch03s%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
