@@ -1,8 +1,13 @@
 <div align="center">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AllCodeCraft-Ch/AllCodeCraft-Ch/main/header.svg?v=3" width="100%" alt="Natthawut Chungam Header">
+  <img src="./header-v2.svg" width="100%" alt="Natthawut Chungam Header">
 </p>
-<div align="center">Building reliable systems that connect **robots, software, industrial equipment, and networks.**</div>
+
+<div align="center">
+
+Building reliable systems that connect <strong>robots, software, industrial equipment, and networks.</strong>
+
+</div>
 
 ---
 
