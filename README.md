@@ -1,227 +1,94 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:60A5FA&height=260&section=header&text=Natthawut%20Chungam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
 # 🤖 Robot Integration Engineer
 
-### Building Intelligent Robotics • Automation • Backend Systems
-
-<img src="https://komarev.com/ghpvc/?username=AllCodeCraft-Ch&style=for-the-badge&color=2563EB"/>
-
-</div>
-
----
-
-# 👋 About Me
+### Robotics • Automation • Backend • Networking
 
 Hi, I'm **Natthawut Chungam** from **Thailand 🇹🇭**
 
-I specialize in **Industrial Robotics**, **Robot Integration**, **Backend Development**, and **Automation Systems**.
-
-I enjoy building reliable software that connects robots, cloud services, and industrial equipment.
-
-Currently focused on
-
-- 🤖 Robot Integration
-- 🚚 Fleet Management Platform
-- ⚡ FastAPI Backend
-- 🌐 React Dashboard
-- 📡 REST API
-- 📶 MQTT Communication
-- 🔗 Robot & Equipment Integration
+I work with **robot integration, backend systems, industrial automation, and network infrastructure**, focusing on connecting robots, software, and equipment into reliable systems.
 
 ---
 
-# 💼 Current Focus
+## ⚡ What I Work With
 
-- 🤖 OpenAPI
-- 🚚 Robot Dispatch System
-- 📡 MQTT Communication
-- 🌐 React + TypeScript
-- ⚡ FastAPI
-- 🐍 Python Automation
-- 🐧 Linux Server
-- 🔌 Industrial API Integration
+**Robotics & Automation**
 
----
+* Robot Integration & Task Dispatch
+* Fleet Management Systems
+* Industrial Equipment Integration
+* ESP32 & Sensor Integration
+* MQTT Communication
 
-# 🛠 Tech Stack
+**Backend & Web**
 
-<div align="center">
+* Python / FastAPI
+* React / TypeScript
+* REST API / WebSocket
+* MySQL
+* Node.js
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,nodejs,mysql,linux,git,docker,vscode"/>
+**Network & Infrastructure**
 
-</div>
-
----
-
-# ⚙ Robotics Skills
-
-✅ Robot Integration
-
-✅ REST API Development
-
-✅ MQTT Broker
-
-✅ Robot Fleet Management
-
-✅ Industrial Automation
-
-✅ Robot Task Scheduling
-
-✅ Web Dashboard
-
-✅ Backend API Design
-
-✅ Linux Administration
-
-✅ Git Workflow
+* LAN & TCP/IP
+* DHCP & Static IP / IP Reservation
+* MikroTik Network Configuration
+* VLAN & Wi-Fi / Access Point
+* Linux Server
+* Network Troubleshooting
+* Docker
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
-## 🤖 CallRobot Platform
+### 🤖 CallRobot Platform
 
-Robot Fleet Management Platform
+Robot fleet management and dispatch platform.
 
-- Robot Status
-- Task Dispatch
-- Robot Control
-- API Integration
-- MQTT Communication
+`FastAPI` `React` `MQTT` `REST API` `WebSocket`
 
----
+### 🚚 Robot OpenAPI Integration
 
-## 🚚 ROBOT OpenAPI Integration
+Backend integration for robot control, task management, status, maps, and telemetry.
 
-Integration library for
+`Python` `FastAPI` `OpenAPI` `REST API`
 
-- Robot Control
-- Task Management
-- Robot Status
-- Robot Map
-- Robot Telemetry
+### 🌐 Robot Dashboard
 
----
+Web dashboard for monitoring robots, missions, equipment, and system status.
 
-## 🌐 Robot Dashboard
+`React` `TypeScript` `FastAPI` `WebSocket`
 
-Web Dashboard built with
+### 📊 Daily Report System
 
-- React
-- TypeScript
-- FastAPI
-- WebSocket
+Internal reporting platform with dashboard, calendar, media upload, and report export.
+
+`React` `Database` `Web App`
+
+### 🚗 RobotCar
+
+Embedded robotics project using microcontrollers and wireless communication.
+
+`C++` `Arduino` `ESP32`
 
 ---
 
-## 📊 Daily Report System
+## 🛠 Tech Stack
 
-Internal work reporting platform
+**Languages**
+`Python` `TypeScript` `JavaScript` `C++` `SQL`
 
-- Dashboard
-- Report Export
-- Calendar
-- Image Upload
+**Frameworks & Tools**
+`FastAPI` `React` `Node.js` `Docker` `Git` `Postman` `VS Code`
 
----
+**Protocols & Technologies**
+`REST API` `MQTT` `WebSocket` `HTTP` `JSON` `TCP/IP`
 
-## 🚗 RobotCar
-
-Embedded Robotics Project
-
-- C++
-- Arduino
-- ESP32
-- Wireless Communication
+**Systems & Network**
+`Linux` `Windows` `macOS` `MikroTik` `DHCP` `VLAN` `LAN`
 
 ---
 
-# 💻 Programming Languages
-
-- Python
-- TypeScript
-- JavaScript
-- C++
-- SQL
-
----
-
-# 🔧 Frameworks
-
-- FastAPI
-- React
-- Node.js
-
----
-
-# 🗄 Database
-
-- MySQL
-
----
-
-# 🖥 Operating Systems
-
-- Linux
-- Windows
-- macOS
-
----
-
-# 🧰 Development Tools
-
-- VS Code
-- Git
-- Docker
-- Postman
-
----
-
-# 📡 Technologies
-
-- REST API
-- MQTT
-- JSON
-- HTTP
-- WebSocket
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AllCodeCraft-Ch&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 🌟 What I Like
-
-🤖 Robotics
-
-⚡ Automation
-
-🐍 Python
-
-🌐 Web Development
-
-📡 API Integration
-
-🚚 Fleet Management
-
-🧠 Problem Solving
-
-☁ Cloud Technologies
-
----
-
-# 📫 Contact
-
-<p align="center">
+## 📫 Contact
 
 <a href="https://github.com/AllCodeCraft-Ch">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -232,14 +99,7 @@ Embedded Robotics Project
 <a href="mailto:natthawut.ch03s@gmail.com">
   <img src="https://img.shields.io/badge/Email-natthawut.ch03s%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
 ---
 
-<div align="center">
-
-## 🤖 "Building Intelligent Robotics for a Better Tomorrow."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:0F4C81&height=120&section=footer"/>
-
-</div>
+### 🤖 *Building reliable systems that connect robots, software, and networks.*
