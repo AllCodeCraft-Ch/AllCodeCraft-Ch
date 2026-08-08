@@ -66,32 +66,45 @@ Robot  ──►  API  ──►  Backend  ──►  Dashboard
 
 ## 🚀 Featured Projects
 
-### 🤖 CallRobot
+### 🤖 Robot Factory Dispatch System
 
-Robot fleet management and dispatch platform for controlling and monitoring multiple robots.
+Industrial robot dispatch and fleet management system designed for factory environments. Supports multi-robot task assignment, job queues, robot availability, real-time status updates, and physical dispatch stations.
 
-`FastAPI` · `React` · `MQTT` · `WebSocket` · `REST API`
-
-### 🚚 Robot OpenAPI Integration
-
-Backend integration for robot task dispatch, status monitoring, telemetry, and robot control.
-
-`Python` · `FastAPI` · `REST API` · `OpenAPI`
-
-### 🌐 Robot Dashboard
-
-Real-time dashboard for robot status, missions, equipment, and system monitoring.
-
-`React` · `TypeScript` · `FastAPI` · `WebSocket`
-
-### 🚗 RobotCar
-
-Embedded robotics project with microcontroller control and wireless communication.
-
-`C++` · `Arduino` · `ESP32`
+`React` · `FastAPI` · `REST API` · `WebSocket` · `MQTT` · `Database`
 
 ---
 
+### 🔗 Robot OpenAPI Integration
+
+Backend integration layer for connecting robot platforms with custom applications, including authentication, robot status, task creation, task cancellation, mission tracking, and telemetry.
+
+`Python` · `FastAPI` · `REST API` · `OpenAPI` · `JSON`
+
+---
+
+### 📡 ESP32 Industrial Sensor & Dispatch System
+
+ESP32-based interface for industrial photo sensors and physical dispatch controls. Sensor states are processed by the controller and transmitted to backend systems through MQTT for automation and robot task triggering.
+
+`ESP32` · `C++` · `GPIO` · `MQTT` · `Sensors`
+
+---
+
+### 🌐 Robot Network & Infrastructure
+
+Network infrastructure and troubleshooting for robot systems, servers, and industrial devices, including static IP configuration, DHCP reservation, LAN deployment, VLAN, Wi-Fi access points, and network diagnostics.
+
+`TCP/IP` · `LAN` · `DHCP` · `VLAN` · `Wi-Fi` · `Linux` · `MikroTik`
+
+---
+
+### 📊 Robot Monitoring Dashboard
+
+Real-time web dashboard for monitoring robot status, missions, locations, connected equipment, sensor states, and system events from a centralized interface.
+
+`React` · `TypeScript` · `FastAPI` · `WebSocket` · `REST API`
+
+---
 ## 🔧 What I Work On
 
 ```text
