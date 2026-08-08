@@ -12,12 +12,31 @@ I'm a **Robot Integration Engineer** from Thailand 🇹🇭, working with indust
 My work focuses on connecting **robots ↔ APIs ↔ servers ↔ industrial equipment** and building tools for robot monitoring, control, and task dispatch.
 
 <div align="center">
-
+# This is a system architecture that was actually implemented #
 <pre>
-Robot  ──►  API  ──►  Backend  ──►  Dashboard
-  │                    │
-  ├── MQTT             ├── Database
-  └── Equipment        └── Network / Server
+                   ┌──────────────┐
+                   │  Pudu T600   │
+                   │    Robot     │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │  Pudu Cloud  │
+                   │   REST API   │
+                   └──────┬───────┘
+                          │
+                          ▼
+  ┌──────────────┐  MQTT  ┌──────────────┐  REST/WebSocket  ┌──────────────┐
+  │  PLC / ESP32  │ ─────► │   Backend    │ ◄─────────────── │  Dashboard   │
+  │  Equipment    │        │   NestJS     │                  │   Next.js    │
+  └──────────────┘        └──────┬───────┘                  └──────────────┘
+                                 │
+                   ┌─────────────┼─────────────┐
+                   ▼             ▼             ▼
+            ┌────────────┐ ┌────────────┐ ┌──────────────┐
+            │   MySQL    │ │ MQTT Broker│ │ Network /    │
+            │  Database  │ │ Mosquitto  │ │ Server PC    │
+            └────────────┘ └────────────┘ └──────────────┘
 </pre>
 
 </div>
