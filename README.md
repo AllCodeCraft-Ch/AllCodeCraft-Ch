@@ -1,5 +1,3 @@
-<div align="center">
-
 <p align="center">
   <img src="./assets/header.svg" width="100%" alt="Natthawut Chungam">
 </p>
