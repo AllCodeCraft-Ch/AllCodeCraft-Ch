@@ -1,8 +1,8 @@
 <div align="center">
 <p align="center">
-# 🤖 Natthawut Chungam
-
-### Robot Integration Engineer
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Natthawut Chungam Header">
+</p>
 
 <div align="center">
 
