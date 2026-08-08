@@ -12,33 +12,43 @@ I'm a **Robot Integration Engineer** from Thailand 🇹🇭, working with indust
 My work focuses on connecting **robots ↔ APIs ↔ servers ↔ industrial equipment** and building tools for robot monitoring, control, and task dispatch.
 
 <div align="center">
-# This is a system architecture that was actually implemented #
-<pre>
+## 🏗️ System Architecture
 
-                           ┌──────────────┐
-                           │    Robot     │
-                           └──────┬───────┘
-                                  │
-                                  ▼
-                           ┌──────────────┐
-                           │    Cloud     │
-                           │   REST API   │
-                           └──────┬───────┘
-                                  │
-                                  ▼
-  ┌──────────────┐  MQTT  ┌──────────────┐  REST/WebSocket  ┌──────────────┐
-  │  PLC / ESP   │ ─────► │   Backend    │ ◄─────────────── │  Dashboard   │
-  │  Equipment   │        │   NestJS     │                  │   Next.js    │
-  └──────────────┘        └──────┬───────┘                  └──────────────┘
+This is the system architecture that was actually implemented.
+
+```text
+                         ┌───────────────┐
+                         │     Robot     │
+                         └───────▲───────┘
                                  │
-                   ┌─────────────┼─────────────┐
-                   ▼             ▼             ▼
-            ┌────────────┐ ┌────────────┐ ┌──────────────┐
-            │   MySQL    │ │ MQTT Broker│ │ Network /    │
-            │  Database  │ │ Mosquitto  │ │ Server PC    │
-            └────────────┘ └────────────┘ └──────────────┘
-</pre>
-
+                                 │
+                         ┌───────▼───────┐
+                         │   Robot API   │
+                         │   REST API    │
+                         └───────▲───────┘
+                                 │
+                                 │
+                                 ▼
+┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+│      ESP32       │     │     Backend      │     │    Dashboard     │
+│ Sensor / Panel   │────▶│     FastAPI      │◀───▶│      React       │
+└────────▲─────────┘ MQTT└────────┬─────────┘ REST│    Web App       │
+         │                        │               │    WebSocket     │
+         │                        │               └──────────────────┘
+┌────────┴─────────┐              │
+│  Photo Sensors  │              │
+│   / Equipment   │              │
+└──────────────────┘              │
+                                  │
+                    ┌─────────────┼─────────────┐
+                    │             │             │
+                    ▼             ▼             ▼
+             ┌────────────┐ ┌────────────┐ ┌──────────────┐
+             │   SQLite   │ │    MQTT    │ │   On-Prem    │
+             │  Database  │ │ Mosquitto  │ │  Server /    │
+             │            │ │   Broker   │ │ Factory LAN  │
+             └────────────┘ └────────────┘ └──────────────┘
+```
 </div>
 
 ---
